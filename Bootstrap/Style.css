@@ -1,0 +1,90 @@
+.toolbr a {
+    text-decoration: none;
+    color: rgb(155, 155, 155);
+}
+
+.toolbr a:hover {
+    color: white;
+}
+
+
+#tool {
+    color: rgb(155, 155, 155);
+}
+
+#tool:hover {
+    color: white;
+}
+
+.pkg {
+    text-align: center;
+
+    margin-top: 350px;
+
+}
+
+.pkg-btn1 {
+    background-color: rgb(247, 140, 0);
+    border-radius: 8px;
+    width: 320px;
+    padding: 15px;
+}
+
+.pkg-btn2 {
+    background-color: rgb(9, 155, 212);
+    border-radius: 8px;
+    width: 270px;
+    padding: 15px;
+}
+
+.crsl {
+    height: 200px;
+}
+
+.tbl-img {
+    transition-duration: 1s;
+
+}
+
+.tbl-img:hover {
+    width: 450px;
+    height: 210px;
+    transition-duration: 1s;
+}
+
+footer {
+    background-color: rgb(78, 78, 78);
+    color: white;
+}
+
+.footr ul li {
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+.footr {
+    height: 200px;
+    padding: 0px;
+    text-shadow: 0px 1px 3px white;
+    column-rule: none;
+    column-count: 3;
+}
+
+.footr a {
+    text-decoration: none;
+    color: white;
+
+}
+
+#opts{
+    font-size: 13px;
+    width: 110px;
+}
+
+.view-left{
+    color: rgb(0, 130, 236);
+}
+
+.view-right{
+    color:rgb(240, 171, 23)
+}
